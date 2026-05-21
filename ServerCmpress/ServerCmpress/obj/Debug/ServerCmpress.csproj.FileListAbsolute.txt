@@ -1,0 +1,14 @@
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.exe.config
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.exe
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.pdb
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.csproj.AssemblyReference.cache
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.csproj.CoreCompileInputs.cache
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.exe
+C:\Users\cs\source\repos\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.pdb
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.exe.config
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.exe
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\bin\Debug\ServerCmpress.pdb
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.csproj.AssemblyReference.cache
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.csproj.CoreCompileInputs.cache
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.exe
+C:\Users\AL-MOMEN\Downloads\Task Network\ServerCmpress\ServerCmpress\obj\Debug\ServerCmpress.pdb

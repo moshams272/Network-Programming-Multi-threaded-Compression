@@ -1,0 +1,20 @@
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\bin\Debug\ClientCompress.exe.config
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\bin\Debug\ClientCompress.exe
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\bin\Debug\ClientCompress.pdb
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.AssemblyReference.cache
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.Form1.resources
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.Properties.Resources.resources
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.GenerateResource.cache
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.CoreCompileInputs.cache
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.exe
+C:\Users\cs\source\repos\ClientCompress\ClientCompress\obj\Debug\ClientCompress.pdb
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\bin\Debug\ClientCompress.exe.config
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\bin\Debug\ClientCompress.exe
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\bin\Debug\ClientCompress.pdb
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.AssemblyReference.cache
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.Form1.resources
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.Properties.Resources.resources
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.GenerateResource.cache
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.csproj.CoreCompileInputs.cache
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.exe
+C:\Users\AL-MOMEN\Downloads\Task Network\ClientCompress\ClientCompress\obj\Debug\ClientCompress.pdb
